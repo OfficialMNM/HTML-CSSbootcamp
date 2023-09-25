@@ -1,0 +1,19 @@
+.h1{
+    position: relative;
+    font-size: large;
+}
+
+body{
+    background-color: aliceblue;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    text-align: justify;
+    margin: 25px;
+    padding: 25px;
+}
+
+p{
+    font-size: medium;
+}
+
